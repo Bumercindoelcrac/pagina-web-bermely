@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /imagenes/*.svg
+Disallow: /images/*.svg
+
+Sitemap: https://ber-mely.com/sitemap.xml
+
+# Café Ber-MELY - Restaurante, Café y Crepería en Ciudad de México
+# WhatsApp: 55 3963 7021

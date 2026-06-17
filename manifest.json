@@ -1,0 +1,37 @@
+{
+  "name": "Café Ber-MELY",
+  "short_name": "Ber-MELY",
+  "description": "Restaurante, café y crepería en Ciudad de México. Menú digital, pedidos y reservaciones.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3B2416",
+  "theme_color": "#3B2416",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "images/logo-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "restaurant", "cafe"],
+  "shortcuts": [
+    {
+      "name": "Ver Menú",
+      "short_name": "Menú",
+      "description": "Explora nuestro menú digital",
+      "url": "/#menu",
+      "icons": [{ "src": "images/logo-icon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Reservar",
+      "short_name": "Reservar",
+      "description": "Reserva tu mesa",
+      "url": "/#reservaciones",
+      "icons": [{ "src": "images/logo-icon.svg", "sizes": "any" }]
+    }
+  ]
+}
